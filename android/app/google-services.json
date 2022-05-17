@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1096946789110",
+    "project_id": "cyfit-95446",
+    "storage_bucket": "cyfit-95446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096946789110:android:7a12c3ec960a01d9e8dad7",
+        "android_client_info": {
+          "package_name": "com.example.cf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096946789110-spsgemk5vm8o4p5hf7r587iv0fppb5ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEi2mPj2OTL9vDSxA7_YltOmANYOsOgfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096946789110-spsgemk5vm8o4p5hf7r587iv0fppb5ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096946789110:android:9abc7a566ab5f90ce8dad7",
+        "android_client_info": {
+          "package_name": "com.example.cy_fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096946789110-spsgemk5vm8o4p5hf7r587iv0fppb5ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEi2mPj2OTL9vDSxA7_YltOmANYOsOgfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096946789110-spsgemk5vm8o4p5hf7r587iv0fppb5ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
